@@ -1,7 +1,7 @@
 name: auto_scroll_demo
-description: Flutter app demonstrating an auto-scroll list package with speed control and pause-on-hold.
-publish_to: 'none'
-version: 1.0.0+1
+description: A Flutter package for creating auto-scrolling lists with granular speed control and pause-on-hold functionality.
+version: 1.0.0
+homepage: https://github.com/your-username/auto_scroll_demo # Add your GitHub link here
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

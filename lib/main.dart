@@ -1,3 +1,8 @@
+//👥 Group 4 Information
+// Sarim Shah - 22K4299
+// Rayyan Zafar - 22K4561
+// Abdul Moiz Farooq - 21K4911
+// Abdul Ali Ahmed - 21K3379
 import 'package:flutter/material.dart';
 
 import 'auto_scroll/auto_scroll.dart';
